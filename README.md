@@ -1,5 +1,5 @@
 # Competitions
-This repository contains informtation about competitions!  
+This repository contains information about competitions!  
 
 ## Training Resources
 
