@@ -10,7 +10,7 @@ This is a list of our past Competition Placements!
 ### Southeastern Collegiate Cyber Defense Competition  
 
 #### Regionals  
-2026 -   
+2026 - 10th Place
 
 #### Qualifiers  
 2026 - 8th Place  
