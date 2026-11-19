@@ -17,6 +17,7 @@ This is a list of our past Competition Placements!
 2025 - 11th / 56   
 
 ### DOE Cyberforce Competition  
+2026 - 9th / 95
 2025 - 8th / 100 (Top 8%)  
 2024 - 15th / 100 (Top 15%)
 
